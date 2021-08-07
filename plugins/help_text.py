@@ -101,4 +101,4 @@ async def about(bot, update):
         text=Translation.About.format(update.from_user.first_name),
         parse_mode="markdown",
         reply_to_message_id=update.message_id
-    )
+    I
